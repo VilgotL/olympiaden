@@ -26,6 +26,6 @@ class MainClass {
      Array.Sort(påsar);
      bryggare = i;
    }
-   Console.WriteLine(bryggare);
+   Console.WriteLine("Svar :" + bryggare);
  }
 }
